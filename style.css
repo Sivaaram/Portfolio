@@ -202,7 +202,7 @@ span{
 }
 @media (max-width:991px){
     .header{
-        padding: 2rem 4%;
+        padding: 3rem 4%;
     }
     section{
         padding: 1rem 3%;
@@ -237,7 +237,7 @@ span{
     }
     .home-img img{
         width:70vw;
-        margin-top: 4rem;
+        margin-top: 10rem;
     }
     .about{
         flex-direction: column;
@@ -249,6 +249,9 @@ span{
     .project-container img{
         height: auto;
         width: auto;
+    }
+    .skill{
+        text-align: center;
     }
 }
 
