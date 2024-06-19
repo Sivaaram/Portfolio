@@ -202,7 +202,7 @@ span{
 }
 @media (max-width:991px){
     .header{
-        padding: 3rem 4%;
+        padding: 3rem 3%;
     }
     section{
         padding: 1rem 3%;
@@ -214,6 +214,10 @@ span{
     .project-container{
         display: grid;
         grid-template-columns: repeat(1fr);
+    }
+    .skill{
+        font-size:2rem;
+        text-align: center;
     }
     .contact{
         min-height: auto;
@@ -250,9 +254,7 @@ span{
         height: auto;
         width: auto;
     }
-    .skill{
-        text-align: center;
-    }
+
 }
 
 /*---------------------------------------------------------------About------------------------------------------------------------------*/
